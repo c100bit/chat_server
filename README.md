@@ -4,7 +4,7 @@ Chat Server предоставляет функционал для обмена 
 
 Стек: nodejs, socket.io, express
 
-[ChatServer](https://cryptic-sierra-45990.herokuapp.com)
+[ChatServer](https://my-super-chat-server.herokuapp.com)
 
 ## Инструкция по запуску
 
